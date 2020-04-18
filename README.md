@@ -1,1 +1,1 @@
-Código Irreverente Landing Page
+CI Landing Page
